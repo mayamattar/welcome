@@ -26,3 +26,5 @@ nav_order: 1
   2. rhinoceros
   3. narwhal 
   
+  ## an IMAGE!
+  ! [pikachudinner](https://i.imgflip.com/2wflbs.jpg)
