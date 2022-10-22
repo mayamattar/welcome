@@ -36,3 +36,6 @@ nav_order: 1
   or how about like this
   
   ![2wflbs](/docs/2wflbs.jpg)
+
+  ## a link! to a wonderful new place on the web
+  please check out [this video](https://www.youtube.com/watch?v=4Y4dntIBiPI)
