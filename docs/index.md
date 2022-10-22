@@ -27,4 +27,4 @@ nav_order: 1
   3. narwhal 
   
   ## an IMAGE!
-  ! [pikachudinner](https://i.imgflip.com/2wflbs.jpg)
+  ! (https://i.imgflip.com/2wflbs.jpg)
