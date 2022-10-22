@@ -32,3 +32,7 @@ nav_order: 1
   could i do it like this instead?
   
 ![2wflbs](https://user-images.githubusercontent.com/116389960/197358932-b0e4c3c7-1de5-4d0b-a359-c96c01d27367.jpg)
+  
+  or how about like this
+  
+  ![2wflbs](/docs/2wflbs.jpg)
